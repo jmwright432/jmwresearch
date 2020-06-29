@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Jamie Michelle Wright, M.A., B.A.
 
-You can use the [editor on GitHub](https://github.com/jmwright432/jmwresearch/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Jamie Wright and I'm a Ph.D. student at the University of Houston. I specialize in American Politics with a focus on political behavior, political communication, and public opinion. My more specific interests are in the way that media, be that news or entertainment, impact political behaviors and attitudes of citizens in the United States.  
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
